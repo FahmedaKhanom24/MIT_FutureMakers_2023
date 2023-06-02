@@ -1,7 +1,7 @@
 
 ![MySureStart Logo](https://images.squarespace-cdn.com/content/v1/5f45536caa356e6ab51588f4/1599580657611-7A6YX9MGA2YHJCQ46QSB/SureStart+Logo.png)
 
-# SureStart AI TrailBlazers Program – Applied Deep Learning Focus  
+# SureStart FutureMakers Program – Applied Deep Learning Focus  
 
 The primary goal of the SureStart (with an Applied Deep Leaning focus) program is to support a global community of high-achieving, ambitious, and diverse group of tech-career aspirants in developing applied technical skills related to AI, machine learning, and related technologies such as computer vision, along with "power" skills critical for career success through a virtual program led by proximate technical mentors and supported by experts from industry and academia.
 
@@ -15,7 +15,7 @@ As a SureStart student, you will learn foundational concepts related to AI, get 
 
 ## Program Phase 1: The Tech Training Phase
 
-The first phase of SureStart Trailblaizers is the Tech Training phase, which will last 3.5 weeks. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete 14 technical modules focussed on building foundational AI knowledge and hands-on Machine Learning skills. Besides mentoring from the SureStart mentoring team, students will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
+The first phase of SureStart FutureMakers is the Tech Training phase, which will last 3.5 weeks. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete 14 technical modules focussed on building foundational AI knowledge and hands-on Machine Learning skills. Besides mentoring from the SureStart mentoring team, students will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
 
 The modules are as follows:
 
@@ -27,35 +27,33 @@ __Module 3__: Numpy is a staple when working with wherever we want to work with 
 
 __Module 4__: Working with tabular data is easier in Pandas, Hence we look at exploring data in pandas.
 
-__Module 5__: Machine learning is an optimization problem. Solving simple optimization problems is possible via Scikit Learn and we may visualize the results for that using Matplotlib.
+__Module 5__: We continue Phase 1 with an introduction to machine learning algorithms, and how a state-of-the-art library makes it easy and fun to run on-the-shelf machine learning (ML) models for Linear Regression, Decision Trees and Random Forest.
 
-__Module 6__: We continue Phase 1 with an introduction to machine learning algorithms, and how a state-of-the-art library makes it easy and fun to run on-the-shelf machine learning (ML) models for Linear Regression, Decision Trees and Random Forest.
+__Module 6__: Having had a general introduced to ML through simpler machine learning models, we will jump into Deep Learning, a more powerful ML modeling approach. We will also get an introduction to Tensorflow, a Python library that helps us to build deep neural networks easily and quickly. 
 
-__Module 7__: Having had a general introduced to ML through simpler machine learning models, we will jump into Deep Learning, a more powerful ML modeling approach. We will also get an introduction to Tensorflow, a Python library that helps us to build deep neural networks easily and quickly. 
+__Module 7__: The exist many Python libraries that make it easy and efficient for us to build complex neural networks. However, these libraries create bit of a "blackbox" around their internal workings of how these networks are actually put together. So, toModule, with a goal to remove the "blackbox", we will build a simple neural network from scratch, and study the various aspects of these networks step-by-step over the next few Modules.
 
-__Module 8__: The exist many Python libraries that make it easy and efficient for us to build complex neural networks. However, these libraries create bit of a "blackbox" around their internal workings of how these networks are actually put together. So, toModule, with a goal to remove the "blackbox", we will build a simple neural network from scratch, and study the various aspects of these networks step-by-step over the next few Modules.
+__Module 8__: Going one step further with neural network architectures, we explore a widely used deep architecture called Convolutional Neural Networks (or CNNs). CNNs are known for their ability to compound smaller patterns into larger more humanly-recognizable ones, and often used for Computer Vision related modeling tasks.
 
-__Module 9__: Going one step further with neural network architectures, we explore a widely used deep architecture called Convolutional Neural Networks (or CNNs). CNNs are known for their ability to compound smaller patterns into larger more humanly-recognizable ones, and often used for Computer Vision related modeling tasks.
+__Module 9__: An important part of the learning process of any machine learning algorithm is its loss function (or cost function). It maps an event or values of one or more variables onto a real number, intuitively representing some "cost" associated with the event. We start by studying loss functions related to regression-related models.
 
-__Module 10__: An important part of the learning process of any machine learning algorithm is its loss function (or cost function). It maps an event or values of one or more variables onto a real number, intuitively representing some "cost" associated with the event. We start by studying loss functions related to regression-related models.
+__Module 10__: ToModule, we will discuss loss in the context of classification-related algorithms. Classification loss differ from regression loss; regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
 
-__Module 11__: ToModule, we will discuss loss in the context of classification-related algorithms. Classification loss differ from regression loss; regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
+__Module 11__: The next topic is very connected to the previous topic. We can have a loss (or cost) function that represents how accurate a given machine learning model is at the prediction task, but we also need another algorithm that is able to change the weights of the model to lower the loss/cost function, such that the associated model gets better at the prediction task. Such algorithms are referred to as "optimizers", which we will study in this module. 
 
-__Module 12__: The next topic is very connected to the previous topic. We can have a loss (or cost) function that represents how accurate a given machine learning model is at the prediction task, but we also need another algorithm that is able to change the weights of the model to lower the loss/cost function, such that the associated model gets better at the prediction task. Such algorithms are referred to as "optimizers", which we will study in this module. 
+__Module 12__: Considering just on the perceptrons/nodes, all neural networks are still very linear in their function. But to model complex real-world data, we need to add non-linearity. This is accomplished by adding intermediate nodes that apply non-linear functions called "activation functions" to the outputs of the neural network layer preceding it before it is ingested by the next layer. ToModule we will explore the various kinds of activation functions.
 
-__Module 13__: Considering just on the perceptrons/nodes, all neural networks are still very linear in their function. But to model complex real-world data, we need to add non-linearity. This is accomplished by adding intermediate nodes that apply non-linear functions called "activation functions" to the outputs of the neural network layer preceding it before it is ingested by the next layer. ToModule we will explore the various kinds of activation functions.
+__Module 13__: Three crucial aspects of any machine learning model are the quality and quantity of data on which it is based, how we train the models, and how long we train the models. Problems with any three of these aspects can result in a model that has not learned enough from the data, or not learned the true patterns in the data and instead glommed onto the wrong details in the data, thus producing sub-optimal predictve outcomes. We learn how to combat such applied problems on this Module.
 
-__Module 14__: Three crucial aspects of any machine learning model are the quality and quantity of data on which it is based, how we train the models, and how long we train the models. Problems with any three of these aspects can result in a model that has not learned enough from the data, or not learned the true patterns in the data and instead glommed onto the wrong details in the data, thus producing sub-optimal predictve outcomes. We learn how to combat such applied problems on this Module.
+__Module 14__: We delve futher into how to handle overfitting and underfitting problems by learning about modifications we can make to our neural network to address them. 
 
-__Module 15__: We delve futher into how to handle overfitting and underfitting problems by learning about modifications we can make to our neural network to address them. 
+__Module 15__: Given the AI and Machine Learning's growing role in human decision-making and its large implications, toModule we will consider Data Ethics, Data Bias, the negative consequences of failing to make ethical considerations part of the process, and concrete an Ethical AI Framework to incorporate in our technical development, so that we can build AI, Machine Learning and data-based tech solutions that are inclusive, equitable and fair. 
 
-__Module 16__: Given the AI and Machine Learning's growing role in human decision-making and its large implications, toModule we will consider Data Ethics, Data Bias, the negative consequences of failing to make ethical considerations part of the process, and concrete an Ethical AI Framework to incorporate in our technical development, so that we can build AI, Machine Learning and data-based tech solutions that are inclusive, equitable and fair. 
+__Module 16__: An advanced architecture of neural networks is an autoencoder. Unlike the deep models we have discussed thus far, autoencoders are "unsupervised", that is these algorithms identify hidden patterns in the input data without the need for human "supervision" in the form of prediction labels (also called "true" labels). ToModule, we will examine the network structure of autoencoders that makes it possible for it to learn in an unsupervised manner.
 
-__Module 17__: An advanced architecture of neural networks is an autoencoder. Unlike the deep models we have discussed thus far, autoencoders are "unsupervised", that is these algorithms identify hidden patterns in the input data without the need for human "supervision" in the form of prediction labels (also called "true" labels). ToModule, we will examine the network structure of autoencoders that makes it possible for it to learn in an unsupervised manner.
+__Module 17__: ToModule we will learn about generative adversarial networks (or GANs), an enhancement to autoencoders. In GANs, we have an encoder-decoder setup: an encoder that is trained to mimic the input data, and an decoder that discerns whether the data it encounters is real or generated by the encoder. The goal of the encoder is to fool the decoder; and the decoder's to catch it. Through tens of thousands of repeated iterations or more, the encoder-decoder pair essentially train each other to get better at their tasks. 
 
-__Module 18__: ToModule we will learn about generative adversarial networks (or GANs), an enhancement to autoencoders. In GANs, we have an encoder-decoder setup: an encoder that is trained to mimic the input data, and an decoder that discerns whether the data it encounters is real or generated by the encoder. The goal of the encoder is to fool the decoder; and the decoder's to catch it. Through tens of thousands of repeated iterations or more, the encoder-decoder pair essentially train each other to get better at their tasks. 
-
-__Module 19__: Style transfer is a task that is very connected to generative adversarial networks but differ in one simple way. ToModule we shall learn about this difference, and other interesting sub-topics.
+__Module 18__: Style transfer is a task that is very connected to generative adversarial networks but differ in one simple way. ToModule we shall learn about this difference, and other interesting sub-topics.
 
 ## Program Phase 2: The Tech Innovation Phase
 During the Innnovation phase of our Virtual AI intensive (the last 1.5 weeks), student teams will **identify ONE real-world problem** that is of import and impact in their local and global contexts; **define a Capstone Project** to address the selected real-world problem; and **apply their newly-learned AI, ML and data skills to solve** the problem. Teams will continue to receive guidance and support from mentors in developing and presenting their Innovation projects.
