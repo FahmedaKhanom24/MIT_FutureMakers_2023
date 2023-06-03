@@ -22,9 +22,9 @@ The first phase of SureStart AI FutureMakers is the Tech Training phase. This ph
 
 The modules are as follows:
 
-__Pre-Program__: We start with a review of python fundamentals including I/O, data types, data structures, logical loops, exception handling and file I/O.
+__Pre-Program 1__: We start with a review of python fundamentals including I/O, data types, data structures, logical loops, exception handling and file I/O.
 
-__Pre-Program__: Continuing the exploration of python fundamentals, we lightly review some object oriented programming concepts with python, and handling of packages/modules/libraries and debugging errors and exceptions. 
+__Pre-Program 2__: Continuing the exploration of python fundamentals, we lightly review some object oriented programming concepts with python, and handling of packages/modules/libraries and debugging errors and exceptions. 
 
 __Module 1__: We introduce Numpy, a staple library for data manipulation, in this module. Specifically, we learn how to make numpy arrays and matrices, and operations we can do on them.
 
