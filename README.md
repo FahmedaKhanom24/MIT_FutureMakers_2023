@@ -10,11 +10,11 @@ As a SureStart AI FutureMakers participant, you will learn foundational concepts
 
 The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  __We recommend reading through this entire ReadMe before going to the specific modules.__
 
-| [Module 1](./Module_01_Python_Review_Fundamentals_I)  | [Module 2](./Module_02_Python_Review_Fundamentals_II)  | [Module 3](./Module_03_Python_Review_NumPy)  | [Module 4](./Module_04_Python_Review_Pandas)  | [Module 5](./Module_05_Python_Review_Matplotlib_%26_SciPy)  |
+| [Pre-Program 1](./Pre-Program_Python_Review_Fundamentals_I)  | [Pre-Program 2](./Pre-Program_Python_Review_Fundamentals_II)  | [Module 1](./Module_01_Python_Review_NumPy)  | [Module 2](./Module_02_Python_Review_Pandas)  | [Module 3](./Module_03_Machine_Learning)  |
 |-----------|-----------|-----------|-----------|-----------|
-| [__Module 6__](./Module_06_Machine_Learning) | [__Module 7__](./Module_07_Deep_Learning_and_TensorFlow)  | [__Module 8__](./Module_08_Artificial_Neural_Networks)  | [__Module 9__](./Module_09_Convolutional_Neural_Network)  | [__Module 10__](./Module_10_Regression_Loss_Functions) |
-| [__Module 11__](./Module_11_Classfication_Loss_Functions) | [__Module 12__](./Module_12_Optimization) | [__Module 13__](./Module_13_Activation_Functions) | [__Module 14__](./Module_14_Overfitting_and_Underfitting) | [__Module 15__](./Module_15_Regularization) |
-| [__Module 16__](./Module_16_Ethics_and_Bias) | [__Module 17__](./Module_17_Autoencoders) | [__Module 18__](./Module_18_Computer_Vision_and_GANs) | [__Module 19__](./Module_19_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase)| 
+| [__Module 4__](./Module_04_Deep_Learning_and_TensorFlow) | [__Module 5__](./Module_05_Artificial_Neural_Networks)  | [__Module 6__](./Module_06_Convolutional_Neural_Network)  | [__Module 7__](./Module_07_Regression_Loss_Functions)  | [__Module 8__](./Module_08_Classfication_Loss_Functions) |
+| [__Module 9__](./Module_09_Optimization) | [__Module 10__](./Module_10_Activation_Functions) | [__Module 11__](./Module_14_Overfitting_and_Underfitting) | [__Module 12__](./Module_12_Regularization) | [__Module 13__](./Module_16_Ethics_and_Bias) |
+| [__Module 14__](./Module_14_Autoencoders) | [__Module 15__](./Module_15_Computer_Vision_and_GANs) | [__Module 16__](./Module_16_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase) | | 
 
 ## Program Phase 1: The Tech Training Phase
 
