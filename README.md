@@ -18,7 +18,7 @@ The modules you will encounter in Phase 1 are laid out in the following grid. Th
 | [__Module 9__](./Module_09_Optimization) | [__Module 10__](./Module_10_Activation_Functions) | [__Module 11__](./Module_14_Overfitting_and_Underfitting) | [__Module 12__](./Module_12_Regularization) | [__Module 13__](./Module_16_Ethics_and_Bias) |
 | [__Module 14__](./Module_14_Autoencoders) | [__Module 15__](./Module_15_Computer_Vision_and_GANs) | [__Module 16__](./Module_16_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase) | | 
 
-## Program Phase 1: The Tech Training Phase
+## Program Phase 1: The AI Tech-Skills Training Phase
 
 The first phase of the MIT FutureMakers Create-a-thon is the AI Technical Training phase. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete technical modules focused on building foundational AI knowledge and hands-on Machine Learning skills. Besides support from technically-trained proximate mentors, participants will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
 
@@ -60,7 +60,7 @@ __Module 15__: In this module, we will learn about generative adversarial networ
 
 __Module 16__: As a last module in the program, we will explore an interesting application of deep models: style transfer. Style transfer is the process of applying the visual style of one image to another, creating a new image that combines the content of one image with the artistic characteristics of another. Style transfer and generative adversarial networks often discussed together, but they are not the same. The former is a particular task, while the latter is an approach for achieving the task. In this module, we will also clarify such foundational differences, and explore other related sub-topics.
 
-## Program Phase 2: The Tech Innovation Phase
+## Program Phase 2: The AI Innovation Phase
 During the Innnovation phase of our Virtual AI intensive (the last 2 weeks), student teams will **identify ONE real-world problem** that is of import and impact in their local and global contexts; **define a Capstone Project** to address the selected real-world problem; and **apply their newly-learned AI, ML and data skills to solve** the problem. Teams will continue to receive guidance and support from mentors in developing and presenting their Innovation projects.
 
 At the very beginning of Phase 2, the Makeathon theme choices will be presented by the program team. Participants will select one of them on which to base their Capstone project. All support materials, forms, and judging rubric and expectations will also be shared. 
