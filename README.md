@@ -1,11 +1,13 @@
 
 ![MySureStart Logo](https://images.squarespace-cdn.com/content/v1/5f45536caa356e6ab51588f4/1599580657611-7A6YX9MGA2YHJCQ46QSB/SureStart+Logo.png)
 
-# SureStart FutureMakers Program – Applied Deep Learning Focus  
+# MIT FutureMakers Create-a-thon – Applied Deep Learning Focus  
 
-The primary goal of the SureStart AI FutureMakers program is to support a global community of high-achieving, ambitious, and diverse groups of tech-career aspirants in developing understanding of the AI ecosystem, building applied technical skills in machine learning and related technologies, along with "power" skills critical for career success through a modular program led by proximate technical mentors and supported by experts from industry and academia.
+The MIT FutureMakers 2023 is a six-week program, co-offered by the MIT RAISE Initiative (Responsible AI for Social Empowerment and Education) in collaboration with SureStart to provide flexible, accessible and industry-skills focused Data, AI and Machine Learning related skill-building programs for emerging technologists. 
 
-As a SureStart AI FutureMakers participant, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a collaborative learning approach in a mentoring-centered environment. The 10-weeks of the program will have two Program Phases: the Tech Training Phase and the Tech Innovation Phase. The Tech Training Phase has specific technical modules you will work on. The Tech Innovation Phase is independent group work on your Capstone Project. During this phase, using an Entreprenuerial Process, you will identify ONE socially-impactful real-world problem, and develop an innovative solution that addresses the selected real-world problem with your newly-learned AI, ML and data skills, with a commitment towards ethical AI.  
+The 6-week AI training program is entirely virtual and part time, and begins on July 5th, 2023. The primary goal of the FutureMakers program is to support a diverse community of engaged, high-achieving, and ambitious tech and AI-career aspirants in developing their understanding of the AI ecosystem, building applied technical skills in machine learning and related technologies, along with "power" skills critical for career success through a modular program led by proximate technical mentors and supported by experts from industry and academia.
+
+As a FutureMakers participant, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a collaborative learning approach in a mentoring-centered environment. The 6-weeks of the program will have two Program Phases: the AI Training Phase and the AI Innovation Phase. The AI Training Phase has specific technical modules you will work on. The AI Innovation Phase is independent group work on your Capstone Project. During the AI Innovation phase, using an Entreprenuerial Process, you will identify ONE socially-impactful real-world problem, and develop an innovative solution that addresses the selected real-world problem with your newly-learned AI, ML and data skills, with a commitment towards ethical AI.  
 
 
 The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  __We recommend reading through this entire ReadMe before going to the specific modules.__
@@ -18,7 +20,7 @@ The modules you will encounter in Phase 1 are laid out in the following grid. Th
 
 ## Program Phase 1: The Tech Training Phase
 
-The first phase of SureStart AI FutureMakers is the Tech Training phase. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete technical modules focused on building foundational AI knowledge and hands-on Machine Learning skills. Besides support from technically-trained proximate mentors, participants will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
+The first phase of the FutureMakers is the Tech Training phase. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete technical modules focused on building foundational AI knowledge and hands-on Machine Learning skills. Besides support from technically-trained proximate mentors, participants will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
 
 The modules are as follows:
 
@@ -65,21 +67,21 @@ At the very beginning of Phase 2, the Makeathon theme choices will be presented 
 
 Though in this phase individuals and teams have no specific Colab notebooks to work on, here are our recommendations for a modular approach to working on your Capstone project:
 
-__Table stakes__: Attend all three presentations related to the Makeathon:
+__Table stakes__: Attend all three presentations related to the Create-a-thon:
 
-[Introduction to the Makeathon](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
+[Introduction to the Create-a-thon](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
 
-[Using an Entrepreneurial  Process for the Makeathon](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
+[Using an Entrepreneurial  Process for the Create-a-thon](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
 
 [Action Plan for Capstone  Project Success](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
 
-__Inspiration__: Watch some [past SureStart Makeathon winners](https://www.youtube.com/watch?v=a9FyCODLflg&list=PLsSCYP2a9mZhAVJLVefDkOskkoW8m_UwH).
+__Inspiration__: Watch some [past program winners](https://www.youtube.com/watch?v=a9FyCODLflg&list=PLsSCYP2a9mZhAVJLVefDkOskkoW8m_UwH).
 
-__Stage 1__: Identify Makeathon theme and share back with SureStart using the appropriate form. Begin brainstorming ideas for a socially meaningful real-world problem that is meaningful to individuals in your team. Each team member should review the [Makeathon Guide](https://drive.google.com/file/d/11zOHv8EM5P-dwGRONRxml2YriRawT69k/view?usp=sharing). Continue ideating and brainstorming in your teams. Use the Makeathon Guide to define roles and tasks for each team member. Every team member must have at least 1 primary task that they are leading, and 1-2 tasks that they are supporting. Set up time to meet with your Business Mentors, if you have not already done so.
+__Stage 1__: Identify Create-a-thon theme and share back with SureStart using the appropriate form. Begin brainstorming ideas for a socially meaningful real-world problem that is meaningful to individuals in your team. Each team member should review the [Resources Guide](https://drive.google.com/file/d/11zOHv8EM5P-dwGRONRxml2YriRawT69k/view?usp=sharing). Continue ideating and brainstorming in your teams. Use the  Guide to define roles and tasks for each team member. Every team member must have at least 1 primary task that they are leading, and 1-2 tasks that they are supporting. Set up time to meet with your Business Mentors, if you have not already done so.
 
 __Stage 2__: Problem and Solution Outline -> Outline what is the primary problem you are going to solve? How do you expect to solve it use AI/ML? What do you expect to build? What kind of data are you going to need to build it? Will you build a model or will you use an off-the-shelf model or library? Begin researching both requirements. Start your Deck Development -> Begin by creating a skeleton of the headers.
 
-__The Weekend before__: Continue developing your project. Begin Market Research -> Start by asking who is your work going to benefit (these are your end-users and/or customers)? How are you going to get their input? Have an outreach plan; create surveys and begin setting up interviews. Start reaching out to folks you want to survey/interview. Do your Competitive Landscape Analysis -> Consider who else is solving this problem. What is left unsolved? Why? With this knowledge, refine your proposed solution. Begin your Tech Development -> Start by identifying and acquiring/creating datasets your need; outlining the model you will need to build, or exploring off-the-shelf model or libraries if that is the direction you want to go. Begin building the scaffolding code you will need to implement your solution. Rewatch the [past SureStart Makeathon winners](https://www.youtube.com/watch?v=a9FyCODLflg&list=PLsSCYP2a9mZhAVJLVefDkOskkoW8m_UwH).
+__The Weekend before__: Continue developing your project. Begin Market Research -> Start by asking who is your work going to benefit (these are your end-users and/or customers)? How are you going to get their input? Have an outreach plan; create surveys and begin setting up interviews. Start reaching out to folks you want to survey/interview. Do your Competitive Landscape Analysis -> Consider who else is solving this problem. What is left unsolved? Why? With this knowledge, refine your proposed solution. Begin your Tech Development -> Start by identifying and acquiring/creating datasets your need; outlining the model you will need to build, or exploring off-the-shelf model or libraries if that is the direction you want to go. Begin building the scaffolding code you will need to implement your solution. Rewatch the [past program winners](https://www.youtube.com/watch?v=a9FyCODLflg&list=PLsSCYP2a9mZhAVJLVefDkOskkoW8m_UwH).
 
 __Stage 3__; Finish your Competitive Landscape Analysis. Continue to Market Research work. Continue your Tech Development. Start your Deck Development if you have not yet. Begin outlining your Pitch: aka, what you will say during your **5-minute final project presentations**. 
 
@@ -89,4 +91,4 @@ __Stage 5__: Finish your Market Research. Your Tech and Deck development should 
 
 __Stage 6__: Finish all threads of work. Keep practicing your Pitch.
 
-__Last Stage__: Show up 15 minutes before the final presentation. Dress professionally. Present your team project at the Makeathon with confidence and pride. Celebrate successful program completion!
+__Last Stage__: Show up 15 minutes before the final presentation. Dress professionally. Present your team project at the Create-a-thon with confidence and pride. Celebrate successful program completion!
