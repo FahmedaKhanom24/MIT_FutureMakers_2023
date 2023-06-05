@@ -20,7 +20,7 @@ The modules you will encounter in Phase 1 are laid out in the following grid. Th
 
 ## Program Phase 1: The Tech Training Phase
 
-The first phase of the FutureMakers is the AI Technical Training phase. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete technical modules focused on building foundational AI knowledge and hands-on Machine Learning skills. Besides support from technically-trained proximate mentors, participants will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
+The first phase of the MIT FutureMakers Create-a-thon is the AI Technical Training phase. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete technical modules focused on building foundational AI knowledge and hands-on Machine Learning skills. Besides support from technically-trained proximate mentors, participants will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
 
 The modules are as follows:
 
