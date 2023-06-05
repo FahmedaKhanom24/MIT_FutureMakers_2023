@@ -3,7 +3,7 @@
 
 # MIT FutureMakers Create-a-thon – Applied Deep Learning Focus  
 
-The MIT FutureMakers 2023 is a six-week program, co-offered by the MIT RAISE Initiative (Responsible AI for Social Empowerment and Education) in collaboration with SureStart to provide flexible, accessible and industry-skills focused Data, AI and Machine Learning related skill-building programs for emerging technologists. 
+The MIT FutureMakers 2023 is a six-week program, offered by SureStart in collaboration with the MIT RAISE Initiative (Responsible AI for Social Empowerment and Education) to provide flexible, accessible and industry-skills focused Data, AI and Machine Learning related skill-building programs for emerging technologists. 
 
 The 6-week AI training program is entirely virtual and part time, and begins on July 5th, 2023. The primary goal of the FutureMakers program is to support a diverse community of engaged, high-achieving, and ambitious tech and AI-career aspirants in developing their understanding of the AI ecosystem, building applied technical skills in machine learning and related technologies, along with "power" skills critical for career success through a modular program led by proximate technical mentors and supported by experts from industry and academia.
 
