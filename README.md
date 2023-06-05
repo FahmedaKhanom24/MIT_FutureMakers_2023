@@ -12,7 +12,7 @@ As a FutureMakers participant, you will learn foundational concepts related to A
 
 The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  __We recommend reading through this entire ReadMe before going to the specific modules.__
 
-| [PreProgram 1](./Module_00_PreProgram_Python_Review_Fundamentals_I)  | [PreProgram 2](./Module_00_PreProgram_Python_Review_Fundamentals_II)  | [Module 1](./Module_01_Python_Review_NumPy)  | [Module 2](./Module_02_Python_Review_Pandas)  | [Module 3](./Module_03_Machine_Learning)  |
+| [Module 00/1](./Module_00_PreProgram_Python_Review_Fundamentals_I)  | [Module 00/2](./Module_00_PreProgram_Python_Review_Fundamentals_II)  | [Module 1](./Module_01_Python_Review_NumPy)  | [Module 2](./Module_02_Python_Review_Pandas)  | [Module 3](./Module_03_Machine_Learning)  |
 |-----------|-----------|-----------|-----------|-----------|
 | [__Module 4__](./Module_04_Deep_Learning_and_TensorFlow) | [__Module 5__](./Module_05_Artificial_Neural_Networks)  | [__Module 6__](./Module_06_Convolutional_Neural_Network)  | [__Module 7__](./Module_07_Regression_Loss_Functions)  | [__Module 8__](./Module_08_Classfication_Loss_Functions) |
 | [__Module 9__](./Module_09_Optimization) | [__Module 10__](./Module_10_Activation_Functions) | [__Module 11__](./Module_14_Overfitting_and_Underfitting) | [__Module 12__](./Module_12_Regularization) | [__Module 13__](./Module_16_Ethics_and_Bias) |
@@ -24,9 +24,9 @@ The first phase of the FutureMakers is the Tech Training phase. This phase is a 
 
 The modules are as follows:
 
-__Pre-Program 1__: We start with a review of python fundamentals including I/O, data types, data structures, logical loops, exception handling and file I/O.
+__Module 00 Pre-program 1__: We start with a review of python fundamentals including I/O, data types, data structures, logical loops, exception handling and file I/O.
 
-__Pre-Program 2__: Continuing the exploration of python fundamentals, we lightly review some object oriented programming concepts with python, and handling of packages/modules/libraries and debugging errors and exceptions. 
+__Module 00 Pre-program 2__: Continuing the exploration of python fundamentals, we lightly review some object oriented programming concepts with python, and handling of packages/modules/libraries and debugging errors and exceptions. 
 
 __Module 1__: We introduce Numpy, a staple library for data manipulation, in this module. Specifically, we learn how to make numpy arrays and matrices, and operations we can do on them.
 
