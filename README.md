@@ -10,7 +10,7 @@ As a SureStart AI FutureMakers participant, you will learn foundational concepts
 
 The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  __We recommend reading through this entire ReadMe before going to the specific modules.__
 
-| [Pre-Program 1](./Pre-Program_Python_Review_Fundamentals_I)  | [Pre-Program 2](./Pre-Program_Python_Review_Fundamentals_II)  | [Module 1](./Module_01_Python_Review_NumPy)  | [Module 2](./Module_02_Python_Review_Pandas)  | [Module 3](./Module_03_Machine_Learning)  |
+| [PreProgram 1](./Pre-Program_Python_Review_Fundamentals_I)  | [PreProgram 2](./Pre-Program_Python_Review_Fundamentals_II)  | [Module 1](./Module_01_Python_Review_NumPy)  | [Module 2](./Module_02_Python_Review_Pandas)  | [Module 3](./Module_03_Machine_Learning)  |
 |-----------|-----------|-----------|-----------|-----------|
 | [__Module 4__](./Module_04_Deep_Learning_and_TensorFlow) | [__Module 5__](./Module_05_Artificial_Neural_Networks)  | [__Module 6__](./Module_06_Convolutional_Neural_Network)  | [__Module 7__](./Module_07_Regression_Loss_Functions)  | [__Module 8__](./Module_08_Classfication_Loss_Functions) |
 | [__Module 9__](./Module_09_Optimization) | [__Module 10__](./Module_10_Activation_Functions) | [__Module 11__](./Module_14_Overfitting_and_Underfitting) | [__Module 12__](./Module_12_Regularization) | [__Module 13__](./Module_16_Ethics_and_Bias) |
